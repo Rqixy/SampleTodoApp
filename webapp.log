@@ -1,0 +1,6 @@
+2022/02/06 21:24:54 users.go:33: table users has no column named password
+2022/02/07 15:55:34 todos.go:60: sql: expected 4 destination arguments in Scan, not 3
+2022/02/07 15:56:18 todos.go:59: sql: expected 4 destination arguments in Scan, not 3
+2022/02/07 20:08:15 route_main.go:13: template: top.html:4: unexpected EOF
+2022/02/09 19:50:39 route_main.go:78: sql: no rows in result set
+2022/02/09 19:51:37 route_main.go:78: sql: no rows in result set
